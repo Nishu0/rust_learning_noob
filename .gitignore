@@ -48,8 +48,10 @@ Cargo.lock  # Only for applications, not libraries
 
 # Anchor (Solana)
 .anchor
+main
 test-ledger/
 .DS_Store
 target/
 **/*.rs.bk
 *.pdb
+
